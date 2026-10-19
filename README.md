@@ -144,7 +144,7 @@ if __name__ == "__main__":
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elamukil001&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elamukil001&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
 
 <br/>
 
@@ -156,7 +156,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Elamukil001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy Wall"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Elamukil001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophy Wall"/>
 
 </div>
 
