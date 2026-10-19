@@ -1,4 +1,4 @@
-<!-- ================================================================== -->
+ <!-- ================================================================== -->
 <!-- 1. HERO BANNER -->
 <!-- ================================================================== -->
 <div align="center">
@@ -20,7 +20,7 @@
 <br/>
 
 <!-- ================================================================== -->
-<!-- 3. CODE-BLOCK ABOUT ME -->
+<!-- 3. ABOUT ME -->
 <!-- ================================================================== -->
 
 ### 👨‍💻 About Me
@@ -28,27 +28,39 @@
 ```python
 class Elamukil:
     def __init__(self):
-        self.name          = "R. Elamukil"
-        self.role          = "Final Year ECE Student"
-        self.location      = "Thanjavur, Tamil Nadu, India"
-        self.degree        = "B.E. - Electronics & Communication Engineering"
-        self.college       = "Government College of Engineering, Sengipatti"
-        self.grad_year     = 2027
+        self.name = "R. Elamukil"
+        self.role = "Final Year ECE Student"
+        self.location = "Thanjavur, Tamil Nadu, India"
+        self.degree = "B.E. - Electronics & Communication Engineering"
+        self.college = "Government College of Engineering, Sengipatti"
+        self.grad_year = 2027
+
+        self.interests = [
+            "Front-End Development",
+            "UI/UX Design",
+            "Embedded Systems",
+            "Internet of Things (IoT)",
+            "Artificial Intelligence",
+            "Cloud Computing",
+            "RF and Wireless Communication"
+        ]
 
         self.stack = [
-            "Python", "HTML", "CSS",
-            "Embedded Systems", "IoT"
+            "Python", "C", "HTML", "CSS", "JavaScript",
+            "React", "Embedded C", "ESP32", "Raspberry Pi",
+            "IoT", "Firebase", "AWS", "HFSS"
         ]
 
-        self.currently_learning = [
-            "Advanced Embedded Systems",
-            "AI & Prompt Engineering",
-            "Cloud Computing",
-            "UI/UX Design"
+        self.internships = [
+            "RF for IoT - SASTRA",
+            "Telecom Infrastructure - BSNL, Thanjavur"
         ]
 
-        self.fun_fact = "Explored live telecom infrastructure (FTTH, " \
-                         "optical fiber & digital comms) at BSNL, Thanjavur!"
+        self.achievements = [
+            "First Prize - Naan Mudhalvan Hackathon",
+            "First Prize - Women's Safety Device Ideathon",
+            "Second Prize - Kalai Kalloori Thiruvizha"
+        ]
 
     def motto(self):
         return "Learn continuously. Build meaningfully. Contribute impactfully."
@@ -72,11 +84,13 @@ if __name__ == "__main__":
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 
 **Embedded & IoT**
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/IoT-3EA639?style=flat-square&logo=internetarchive&logoColor=white"/>
 <img src="https://img.shields.io/badge/Embedded_C-004480?style=flat-square&logo=c&logoColor=white"/>
@@ -84,6 +98,7 @@ if __name__ == "__main__":
 **Cloud & DevOps**
 
 <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
@@ -92,6 +107,7 @@ if __name__ == "__main__":
 <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=flat-square"/>
 
 <br/>
 
@@ -153,30 +169,34 @@ if __name__ == "__main__":
 ### 💼 Experience & Internships
 
 <details>
-<summary><b>📡 Telecom Infrastructure Observership — BSNL, Thanjavur</b></summary>
+<summary><b>📡 RF for IoT Internship — SASTRA</b></summary>
+
 <br/>
 
-- Studied telecom infrastructure, digital communication systems, and optical fiber technology through hands-on practical observation.
+- Gained exposure to Radio Frequency (RF) technologies and their applications in Internet of Things systems.
+- Explored wireless communication concepts relevant to connected devices.
+- Developed an understanding of RF technology and IoT applications.
+
+</details>
+
+<details>
+<summary><b>📶 Telecom Infrastructure Internship — BSNL, Thanjavur</b></summary>
+
+<br/>
+
+- Studied telecom infrastructure, digital communication systems, and optical fiber technology.
 - Explored FTTH (Fiber-To-The-Home) network architecture and broadband service deployment.
-- Gained exposure to real-world telecom operations bridging classroom ECE fundamentals with industry practice.
+- Gained exposure to practical telecom operations and communication technologies.
 
 </details>
 
 <details>
 <summary><b>🤖 Workshop — LLM & Prompt Engineering</b></summary>
+
 <br/>
 
-- Attended a focused workshop on Large Language Models and Prompt Engineering.
+- Attended a workshop on Large Language Models and Prompt Engineering.
 - Learned practical techniques for crafting effective prompts and understanding LLM behavior.
-
-</details>
-
-<details>
-<summary><b>🔌 Track & Tactix — IoT Hackathon</b></summary>
-<br/>
-
-- Participated in a hackathon centered on IoT-based problem solving.
-- Applied embedded systems and IoT fundamentals in a competitive, time-boxed team environment.
 
 </details>
 
@@ -191,14 +211,15 @@ if __name__ == "__main__":
 <div align="center">
 
 | Project | Stack | Description |
-|:---:|:---:|:---|
-| 🔧 *Add your project name* | Embedded C, IoT | *Add a 1-line description of an IoT/embedded project you've built* |
-| 🌐 *Add your project name* | HTML, CSS | *Add a 1-line description of a web-based project you've built* |
-| 🐍 *Add your project name* | Python | *Add a 1-line description of a Python-based project you've built* |
+|:---|:---|:---|
+| 🏭 Smart Industry Light System | Embedded Systems, IoT | Intelligent industrial lighting solution focused on energy efficiency. |
+| 🐘 Vanakaaval — AI Wildlife Detection | Raspberry Pi, YOLOv8, LoRa, Firebase | Edge AI wildlife detection and deterrence system designed to help reduce human-wildlife conflict. |
+| ❤️ Wearable Patient Monitoring System | ESP32, MPU6500, AD8232, IoT | Wearable monitoring prototype integrating motion, temperature, humidity, and ECG sensing. |
+| 🌱 Smart Agriculture Monitoring | Raspberry Pi, LoRa, HFSS | Agriculture monitoring and wireless communication with antenna performance analysis. |
+| 🛡️ Women's Safety Device | Proposed safety-device concept | Technology-based women's safety solution proposed at an ideathon. |
+| 🌐 Digital Welfare Website | HTML, CSS, JavaScript | Web-based interface for presenting digital welfare information and services. |
 
 </div>
-
-> 💡 *Note: Your resume didn't list specific project names, stacks, or metrics — replace the placeholders above with your actual projects (e.g., repo links, tech used, and results/impact) for the best impression.*
 
 <br/>
 
@@ -211,14 +232,14 @@ if __name__ == "__main__":
 <div align="center">
 
 | Achievement | Details |
-|:---:|:---|
-| 🏆 Hackathon Participant | Track and Tactix — IoT-focused Hackathon |
-| 📚 Workshop Completion | LLM and Prompt Engineering |
-| 🏢 Industry Exposure | Telecom & Optical Fiber Observership at BSNL, Thanjavur |
+|:---|:---|
+| 🥇 First Prize | Naan Mudhalvan Hackathon — Smart Industry Light System |
+| 🥇 First Prize | Ideathon at Anjalai Ammal Mahalingam Engineering College — Proposed a Women's Safety Device |
+| 🥈 Second Prize | Kalai Kalloori Thiruvizha |
+| 📡 Internship | RF for IoT — SASTRA |
+| 🏢 Internship | Telecom Infrastructure — BSNL, Thanjavur |
 
 </div>
-
-> 💡 *Add any LeetCode/competitive programming stats, certifications, or additional awards here as you earn them.*
 
 <br/>
 
@@ -250,9 +271,8 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<!-- Add your actual handles/links below -->
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/elamukil-r-6a44b5324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Elamukil001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
