@@ -9,7 +9,7 @@
 <!-- 2. TYPING HEADER -->
 <!-- ================================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Pre-Final+Year+ECE+Student;Embedded+Systems+%7C+IoT+%7C+AI+Explorer;Cloud+Computing+%2B+UI%2FUX+%2B+Web+Dev;Learning+Every+Day%2C+Building+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final+Year+ECE+Student;Embedded+Systems+%7C+IoT+%7C+AI+Explorer;Cloud+Computing+%2B+UI%2FUX+%2B+Web+Dev;Learning+Every+Day%2C+Building+Every+Day" alt="Typing SVG" />
 
 <br/>
 
