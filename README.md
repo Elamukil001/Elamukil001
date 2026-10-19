@@ -1,165 +1,191 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=190&amp;section=header&amp;text=R.%20Elamukil&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=ECE%20Student%20%7C%20Front-End%20Developer%20%7C%20IoT%20%26%20Embedded%20Systems&amp;descAlignY=60&amp;descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=R.%20Elamukil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ECE%20Student%20%7C%20Front-End%20Developer%20%7C%20IoT%20%26%20Embedded%20Systems&descAlignY=60&descSize=15" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Final+Year+ECE+Student;Front-End+Developer+%7C+UI%2FUX+Designer;Embedded+Systems+%7C+IoT+%7C+Edge+AI;Innovating+Today+for+a+Smarter+Tomorrow" alt="Typing SVG"/>
+<a href="https://github.com/Elamukil001">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Final+Year+ECE+Student;Front-End+Developer+%7C+UI%2FUX+Designer;Embedded+Systems+%7C+IoT+%7C+Edge+AI;Innovating+Today+for+a+Smarter+Tomorrow" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Elamukil001&amp;style=flat-square&amp;color=blue&amp;label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Elamukil001&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Elamukil001?style=for-the-badge&logo=github&color=203A43" alt="Followers"/>
+<img src="https://img.shields.io/badge/Final_Year-ECE-36BCF7?style=for-the-badge" alt="Final Year ECE"/>
+<img src="https://img.shields.io/badge/Open_To-Internships-success?style=for-the-badge" alt="Open to internships"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Hi 👋 I'm **R. Elamukil**, a final-year **Electronics and Communication Engineering** student who loves turning ideas into working products, from clean web interfaces to smart IoT devices.
+
+- 🎓 Pursuing **B.E. in ECE** (2027)
+- 💻 Into **Front-End Development, UI/UX Design & Cloud**
+- 🔌 Exploring **Embedded Systems, IoT, RF & Edge AI**
+- 🏆 **2× First Prize** winner (Hackathon + Ideathon)
+- 📡 **RF for IoT** intern @ SASTRA
+- 📶 **Telecom** intern @ BSNL, Thanjavur
+- 🌱 Always learning, experimenting and building
+
+</td>
+<td width="38%" valign="middle" align="center">
+
+```text
+┌──────────────────────────┐
+│  👩‍💻 const elamukil = {   │
+│   role: "ECE Student",   │
+│   focus: ["Web","IoT",   │
+│           "Edge AI"],    │
+│   awards: 3,             │
+│   status: "Building 🚀"  │
+│  };                      │
+└──────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+> 💡 *"Learn continuously. Build meaningfully. Contribute impactfully."*
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,nextjs,nodejs,tailwind,bootstrap&theme=dark" alt="Languages and web"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,flutter,firebase,aws,azure,mongodb,mysql&theme=dark" alt="Embedded, cloud and data"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Tools"/>
+
+<br/><br/>
+
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-3EA639?style=for-the-badge)
+![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge&logoColor=black)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💼 Experience & Internships
 
-Hi! I'm **R. Elamukil**, a final-year Electronics and Communication Engineering student passionate about technology, innovation, and software development.
-
-- 🎓 Pursuing B.E. in Electronics and Communication Engineering.
-- 💻 Interested in Front-End Development, UI/UX Design, and Cloud Computing.
-- 🔌 Exploring Embedded Systems, IoT, RF technologies, and Edge AI.
-- 🏆 First Prize Winner — Naan Mudhalvan Hackathon.
-- 🏆 First Prize Winner — Women's Safety Device Ideathon.
-- 🥈 Second Prize — Kalai Kalloori Thiruvizha.
-- 📡 RF for IoT Intern — SASTRA.
-- 📶 Telecom Infrastructure Internship — BSNL, Thanjavur.
-- 🌱 Always learning, experimenting, and building new projects.
-
-> "Learn continuously. Build meaningfully. Contribute impactfully."
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
-
-### 🔌 Embedded Systems, IoT and AI
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-IoT-3EA639?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
-
-### ☁️ Cloud, Databases and Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white)
-![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge)
-
----
-
-## 💼 Experience and Internships
-
-### 📡 RF for IoT Internship — SASTRA
-
-- Gained exposure to Radio Frequency technologies and their applications in IoT systems.
-- Explored wireless communication concepts relevant to connected devices.
-- Developed an understanding of RF technology in IoT applications.
-
-### 📶 Telecom Infrastructure Internship — BSNL, Thanjavur
-
-- Explored telecom infrastructure and digital communication systems.
-- Gained exposure to optical fiber communication and FTTH network architecture.
-- Connected ECE fundamentals with practical telecom applications.
+| 🏢 Organization | 🎯 Role | 📝 What I explored |
+|:---|:---|:---|
+| **SASTRA** | 📡 RF for IoT Intern | Radio Frequency technologies, wireless communication concepts, and RF in IoT applications |
+| **BSNL, Thanjavur** | 📶 Telecom Infrastructure Intern | Digital communication systems, optical fiber and FTTH network architecture |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏭 1. Smart Industry Light System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🏆 **First Prize — Naan Mudhalvan Hackathon**
+### 🏭 Smart Industry Light System
+🏆 **First Prize, Naan Mudhalvan Hackathon**
 
-An intelligent industrial lighting solution designed to improve energy efficiency through automated lighting control.
+Intelligent industrial lighting that improves energy efficiency through automated control.
 
-**Technologies:** IoT, Embedded Systems, Sensors.
+`IoT` `Embedded Systems` `Sensors`
 
-### 🐘 2. Vanakaaval — AI Wildlife Detection and Deterrence
+</td>
+<td width="50%" valign="top">
 
-An Edge AI-based wildlife detection and deterrence system designed to help reduce human–wildlife conflict.
+### 🛡️ Women's Safety Device
+🏆 **First Prize, Ideathon, Anjalai Ammal Mahalingam Engineering College**
 
-- Detects wildlife using computer vision and YOLOv8.
-- Integrates Raspberry Pi 4, PIR sensing, and an ultrasonic deterrent system.
-- Uses LoRa for communication between system components.
-- Includes Firebase, a Flutter mobile application, and AWS IoT Core integration.
+A technology-driven device concept addressing real-world women's safety challenges.
 
-**Technologies:** Python, Raspberry Pi, YOLOv8, OpenCV, LoRa, Firebase, Flutter, AWS IoT Core.
+`Embedded Systems` `IoT`
+<!-- Update the tags above with your final design -->
 
-### ❤️ 3. Wearable Smart Patient Monitoring System
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An ESP32-based wearable monitoring prototype designed to collect patient-related sensor data.
+### ❤️ Wearable Smart Patient Monitor
+ESP32-based wearable prototype for patient status monitoring and emergency alerts.
 
-- Integrates an MPU6500 motion sensor.
-- Includes temperature and humidity monitoring.
-- Uses an AD8232 ECG sensor interface.
-- Designed to support patient status monitoring and emergency alerts.
+- MPU6500 motion sensor
+- Temperature and humidity monitoring
+- AD8232 ECG interface
 
-**Technologies:** ESP32, Embedded C, MPU6500, AD8232, DHT Sensor, IoT.
+`ESP32` `Embedded C` `MPU6500` `AD8232` `DHT` `IoT`
 
-### 🌱 4. Smart Agriculture Monitoring System
+</td>
+<td width="50%" valign="top">
 
-An IoT-based agriculture monitoring project exploring sensor data collection, LoRa communication, and antenna performance analysis.
+### 🌱 Smart Agriculture Monitoring
+IoT agriculture project exploring sensor data collection, LoRa communication, and antenna performance analysis.
 
-**Technologies:** Raspberry Pi, LoRa, IoT, HFSS, Antenna Design.
+`Raspberry Pi` `LoRa` `IoT` `HFSS` `Antenna Design`
 
-### 🛡️ 5. Women's Safety Device — Ideathon Project
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-🏆 **First Prize — Ideathon, Anjalai Ammal Mahalingam Engineering College**
+### 🌐 Digital Welfare Website
+A web project that presents digital welfare information and services through an accessible, easy-to-use interface.
 
-Proposed a technology-based women's safety device concept focused on addressing women's safety challenges.
+`HTML` `CSS` `JavaScript`
 
-- Identified a real-world safety problem and proposed a technology-driven solution.
-- Presented the proposed device concept at an innovation competition.
-- Received first prize for the proposal.
+</td>
+</tr>
+</table>
 
-**Technologies:** To be updated based on the proposed design.
+### 🐘 Spotlight: Vanakaaval, AI Wildlife Detection & Deterrence
 
-### 🌐 6. Digital Welfare Website
+An **Edge AI** system that helps reduce human–wildlife conflict by detecting animals and deterring them automatically.
 
-A web-based project focused on presenting digital welfare information and services through an accessible interface.
+- 👁️ Detects wildlife using computer vision and **YOLOv8**
+- 🧠 Runs on **Raspberry Pi 4** with PIR sensing and an **ultrasonic deterrent**
+- 📡 Uses **LoRa** for communication between system components
+- ☁️ Integrates **Firebase**, a **Flutter** mobile app, and **AWS IoT Core**
 
-**Technologies:** HTML, CSS, JavaScript.
+```mermaid
+flowchart LR
+    A["📷 Camera + PIR Sensor"] --> B["🧠 Raspberry Pi 4<br/>YOLOv8 + OpenCV"]
+    B --> C["🔊 Ultrasonic Deterrent"]
+    B -- LoRa --> D["📡 Gateway"]
+    D --> E["☁️ AWS IoT Core"]
+    E --> F[("🔥 Firebase")]
+    F --> G["📱 Flutter App"]
+```
+
+`Python` `Raspberry Pi` `YOLOv8` `OpenCV` `LoRa` `Firebase` `Flutter` `AWS IoT Core`
 
 ---
 
-## 🏆 Achievements and Awards
+## 🏆 Achievements & Awards
 
-| Achievement | Recognition |
-|---|---|
-| Naan Mudhalvan Hackathon | 🥇 First Prize — Smart Industry Light System |
-| Ideathon, Anjalai Ammal Mahalingam Engineering College | 🥇 First Prize — Women's Safety Device Proposal |
-| Kalai Kalloori Thiruvizha | 🥈 Second Prize |
-| SASTRA | RF for IoT Internship |
-| BSNL, Thanjavur | Telecom Infrastructure Internship |
+| 🏅 Event | 🎖️ Recognition |
+|:---|:---|
+| Naan Mudhalvan Hackathon | 🥇 **First Prize**, Smart Industry Light System |
+| Ideathon, Anjalai Ammal Mahalingam Engineering College | 🥇 **First Prize**, Women's Safety Device Proposal |
+| Kalai Kalloori Thiruvizha | 🥈 **Second Prize** |
+| SASTRA | 📡 RF for IoT Internship |
+| BSNL, Thanjavur | 📶 Telecom Infrastructure Internship |
 
 ---
 
 ## 🎓 Education
 
-| Qualification | Institution | Year |
-|---|---|---|
+| 🎓 Qualification | 🏫 Institution | 📅 Year |
+|:---|:---|:---:|
 | B.E. Electronics and Communication Engineering | Government College of Engineering, Sengipatti, Thanjavur | 2027 |
 | Higher Secondary Certificate (HSC) | Thirumagal Higher Secondary School, Thanjavur | 2023 |
 
@@ -167,26 +193,29 @@ A web-based project focused on presenting digital welfare information and servic
 
 ## 🌱 Currently Learning
 
-- Front-End Development and modern web technologies.
-- UI/UX Design and responsive interfaces.
-- Embedded Systems and IoT product development.
-- AI, computer vision, and Edge AI.
-- Cloud Computing and connected applications.
-- RF technologies and antenna design.
+<div align="center">
+
+![Web](https://img.shields.io/badge/Modern_Web-Front--End-36BCF7?style=flat-square&logo=react&logoColor=white)
+![UIUX](https://img.shields.io/badge/UI%2FUX-Responsive_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Product_Development-00979D?style=flat-square&logo=arduino&logoColor=white)
+![AI](https://img.shields.io/badge/Edge_AI-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Connected_Apps-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![RF](https://img.shields.io/badge/RF-Antenna_Design-FFB71B?style=flat-square&logoColor=black)
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elamukil001&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamukil001&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elamukil001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamukil001&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Elamukil001&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Elamukil001&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 
 </div>
 
@@ -194,15 +223,15 @@ A web-based project focused on presenting digital welfare information and servic
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elamukil001&amp;theme=tokyo-night&amp;hide_border=true" width="100%" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elamukil001&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>
 
 </div>
 
-## 🏅 GitHub Trophy Wall
+## 🏅 Trophy Wall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Elamukil001&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Elamukil001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -212,22 +241,21 @@ A web-based project focused on presenting digital welfare information and servic
 
 <div align="center">
 
-<a href="https://github.com/Elamukil001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://github.com/Elamukil001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Replace the URL below with your own LinkedIn profile link -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- Optional: add your email
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+-->
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-</a>
+<br/><br/>
 
-</div>
+**🤝 Open to:** collaborative projects · internships · learning opportunities · tech communities
 
-<div align="center">
+<br/>
 
-**Open to:** Collaborative projects, internships, learning opportunities, and technology communities.
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=120&amp;section=footer" width="100%"/>
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
