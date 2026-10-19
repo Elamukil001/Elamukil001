@@ -29,7 +29,7 @@
 class Elamukil:
     def __init__(self):
         self.name          = "R. Elamukil"
-        self.role          = "Pre-Final Year ECE Student"
+        self.role          = "Final Year ECE Student"
         self.location      = "Thanjavur, Tamil Nadu, India"
         self.degree        = "B.E. - Electronics & Communication Engineering"
         self.college       = "Government College of Engineering, Sengipatti"
